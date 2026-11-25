@@ -3,6 +3,7 @@
 
 Writes the entry text to /output/entry.txt. Stdlib only, no network,
 no clock, no randomness: byte-identical output on every run.
+The line is the resignation letter of a retry loop, 96 characters.
 """
 
 import os
